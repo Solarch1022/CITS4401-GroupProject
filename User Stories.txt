@@ -1,0 +1,26 @@
+1.As a researcher, I want to submit an ethics application through a centralised system, so 
+that I do not have to rely on fragmented tools such as email or shared platforms.
+
+2. As a researcher, I want to upload all required supporting documents in one place, so 
+that I can make sure my application is complete before submission. 
+
+3. As a researcher, I want to update or re-upload documents when requested, so that I can 
+fix issues without restarting the entire application. 
+
+4. As an administrative staff member, I want all application documents to be stored in one 
+centralised system, so that I do not need to search across emails, shared drives, and 
+other platforms. 
+
+5. As an administrative staff member, I want to track the progress of applications 
+throughout the review process, so that I am aware of the status even after forwarding 
+them to the ethics committee. 
+
+6. As an administrative staff member, I want the system to maintain document version 
+history automatically, so that I do not have to manually track versions using 
+spreadsheets. 
+
+7. As an ethics committee member, I want to review applications and supporting 
+documents within a structured system, so that I can make decisions more efficiently. 
+
+8. As an ethics committee member, I want access to a complete audit trail of actions, so 
+that accountability and compliance can be ensured.
